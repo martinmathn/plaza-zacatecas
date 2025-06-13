@@ -153,11 +153,11 @@
   </nav>
   <main>
     <section id="inicio" tabindex="4">
-      <h2>Bienvenido a Plaza Zacatecas</h2>
+      <h2>Mantenimientos preventivos</h2>
       <p>Este es un sitio con estilo gamer, en colores azul, rojo y gris. Aquí podrás encontrar la mejor experiencia para gamers y entusiastas de la tecnología.</p>
     </section>
     <section id="sobre" tabindex="5">
-      <h2>Sobre Plaza Zacatecas</h2>
+      <h2>Validacion COP y ACC</h2>
       <p>Plaza Zacatecas es un espacio diseñado para gamers y entusiastas de la tecnología. Aquí encontrarás lo último en eventos, tiendas y servicios dedicados a la comunidad gamer.</p>
     </section>
     <section id="contacto" tabindex="6">
@@ -167,7 +167,7 @@
     </section>
   </main>
   <footer>
-    &copy; 2025 Plaza Zacatecas • Estilo Gamer
+    &copy; 2025 Plaza Zacatecas • 
   </footer>
 </body>
 </html># plaza-zacatecas
