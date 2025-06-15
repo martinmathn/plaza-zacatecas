@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Plaza Zacatecas - Estilo Gamer</title>
+  <title>Plaza Zacatecas</title>
   <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet" />
   <style>
     /* Reset */
@@ -147,23 +147,23 @@
     <h1>Plaza Zacatecas</h1>
   </header>
   <nav>
-    <a href="#inicio" tabindex="1">Inicio</a>
-    <a href="#sobre" tabindex="2">Sobre Plaza</a>
-    <a href="#contacto" tabindex="3">Contacto</a>
+    <a href="#inicio" tabindex="1">Mantenimientos</a>
+    <a href="#sobre" tabindex="2">CCTV</a>
+    <a href="#contacto" tabindex="3">Minuta</a>
   </nav>
   <main>
-    <section id="inicio" tabindex="4">
+    <section id="Mantenimientos" tabindex="4">
       <h2>Mantenimientos preventivos</h2>
-      <p>Este es un sitio con estilo gamer, en colores azul, rojo y gris. Aquí podrás encontrar la mejor experiencia para gamers y entusiastas de la tecnología.</p>
+      <p>Calendario</p>
     </section>
-    <section id="sobre" tabindex="5">
+    <section id="CCTV" tabindex="5">
       <h2>Validacion COP y ACC</h2>
-      <p>Plaza Zacatecas es un espacio diseñado para gamers y entusiastas de la tecnología. Aquí encontrarás lo último en eventos, tiendas y servicios dedicados a la comunidad gamer.</p>
+      <p>Evidencias del centro de control incluyendo ACC</p>
     </section>
-    <section id="contacto" tabindex="6">
-      <h2>Contacto</h2>
-      <p>Correo: contacto@plazazacatecas.com</p>
-      <p>Redes sociales: @PlazaZacatecas</p>
+    <section id="Minuta Mensual" tabindex="6">
+      <h2>Minuta Mensual</h2>
+      <p>Mayo</p>
+      <p>Junio</p>
     </section>
   </main>
   <footer>
@@ -171,4 +171,3 @@
   </footer>
 </body>
 </html># plaza-zacatecas
-ubicaciones
